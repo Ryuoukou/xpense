@@ -1,0 +1,9 @@
+html {
+    .v-application {
+        font-family: 'Hind Siliguri', sans-serif;
+    }
+}
+
+.swiper-pagination-bullet {
+    border: 1px solid #292830
+}
